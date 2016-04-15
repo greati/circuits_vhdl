@@ -1,0 +1,64 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/greati/circuits_vhdl
+Eadder_wbits
+Z1 w1460111682
+R0
+Z2 8/home/greati/circuits_vhdl/adder_Wbits.vhd
+Z3 F/home/greati/circuits_vhdl/adder_Wbits.vhd
+l0
+L1
+V<z=kCj8OZ=d226Wgbmfa=1
+!s100 Udz7eU@ff06kLW7G<JYA[3
+Z4 OV;C;10.3d;59
+32
+Z5 !s110 1460113949
+!i10b 1
+Z6 !s108 1460113949.007304
+Z7 !s90 -reportprogress|300|-work|work|/home/greati/circuits_vhdl/adder_Wbits.vhd|
+Z8 !s107 /home/greati/circuits_vhdl/adder_Wbits.vhd|
+!i113 1
+Z9 o-work work
+Z10 tExplicit 1
+Aarch1
+DEx4 work 11 adder_wbits 0 22 <z=kCj8OZ=d226Wgbmfa=1
+l11
+L9
+VI_KCF:9DohPaY:R?MloTo0
+!s100 kGULNC>@Kj;VCPNTh0b^73
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eaddersubtc2_full
+w1460114850
+R0
+8/home/greati/circuits_vhdl/addersubtc2_full.vhd
+F/home/greati/circuits_vhdl/addersubtc2_full.vhd
+l0
+L1
+VfRFfE520;WkTeG_mI?T7b1
+!s100 Y1Ab_WO]J5W91kzPmSk7C3
+R4
+32
+!s110 1460114852
+!i10b 1
+!s108 1460114852.405174
+!s90 -reportprogress|300|-work|work|/home/greati/circuits_vhdl/addersubtc2_full.vhd|
+!s107 /home/greati/circuits_vhdl/addersubtc2_full.vhd|
+!i113 1
+R9
+R10

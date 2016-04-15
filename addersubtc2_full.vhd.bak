@@ -24,7 +24,7 @@ BEGIN
 		BEGIN
 		IF (subt = '1') THEN
 			bop <= NOT b;
-		ELSE
+		ELSE THEN
 			-- Initializes the second operator for a sum
 			bop <= b;
 		END IF;
