@@ -1,0 +1,483 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.1
+Ealg_extractor
+Z0 w1463134681
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 d/home/greati/digital_watch_vhdl
+Z5 8/home/greati/digital_watch_vhdl/alg_extractor.vhd
+Z6 F/home/greati/digital_watch_vhdl/alg_extractor.vhd
+l0
+L5
+VL_a5UXBJZ`16jPLcKl4An3
+!s100 1<eWS<5m@M[T^0f2O1R>22
+Z7 OV;C;10.3d;59
+32
+Z8 !s110 1463135462
+!i10b 1
+Z9 !s108 1463135462.984795
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/alg_extractor.vhd|
+Z11 !s107 /home/greati/digital_watch_vhdl/alg_extractor.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Astruct
+R1
+R2
+R3
+DEx4 work 13 alg_extractor 0 22 L_a5UXBJZ`16jPLcKl4An3
+l15
+L12
+Vhb>Cg[z]S;8XAIUPGF49C3
+!s100 aRFT_M:;Ulga>Aeh[_B`K0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eclock_final
+R0
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+R4
+Z16 8/home/greati/digital_watch_vhdl/clock_final.vhd
+Z17 F/home/greati/digital_watch_vhdl/clock_final.vhd
+l0
+L6
+VmISgXEYLSzhCeOi@UUZYI0
+!s100 I5dO8J<n5:FCQ26dU6Y`K3
+R7
+32
+Z18 !s110 1463135463
+!i10b 1
+Z19 !s108 1463135463.035370
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/clock_final.vhd|
+Z21 !s107 /home/greati/digital_watch_vhdl/clock_final.vhd|
+!i113 1
+R12
+R13
+Acomps
+R14
+R15
+R1
+R2
+R3
+DEx4 work 11 clock_final 0 22 mISgXEYLSzhCeOi@UUZYI0
+l123
+L16
+VC]OG@eU]n^o:b6=Wgk50Q1
+!s100 cGd06L?2:eFE:c1e:7MAj0
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Ecomp_clockalarm
+R0
+R14
+R15
+R1
+R2
+R3
+R4
+Z22 8/home/greati/digital_watch_vhdl/comp_clockAlarm.vhd
+Z23 F/home/greati/digital_watch_vhdl/comp_clockAlarm.vhd
+l0
+L6
+V>7FWEZTdi`GMmKd`6i5641
+!s100 H9[N;mjbd@dfCPm`jkID61
+R7
+32
+R18
+!i10b 1
+Z24 !s108 1463135463.093982
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/comp_clockAlarm.vhd|
+Z26 !s107 /home/greati/digital_watch_vhdl/comp_clockAlarm.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R1
+R2
+R3
+DEx4 work 15 comp_clockalarm 0 22 >7FWEZTdi`GMmKd`6i5641
+l17
+L16
+VlRJ`j0H8EH4K7IIc@Tee91
+!s100 `O]ZBl>EGdRaThTfJd2Nc0
+R7
+32
+R18
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+R13
+Ecounter_alarm
+R0
+R14
+R15
+R1
+R2
+R3
+R4
+Z27 8/home/greati/digital_watch_vhdl/counter_alarm.vhd
+Z28 F/home/greati/digital_watch_vhdl/counter_alarm.vhd
+l0
+L6
+VM<eoJ?5jESI?o58ziJ4PK1
+!s100 hNFfg6a_B^dTB=D;jFod33
+R7
+32
+R18
+!i10b 1
+Z29 !s108 1463135463.157705
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/counter_alarm.vhd|
+Z31 !s107 /home/greati/digital_watch_vhdl/counter_alarm.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R1
+R2
+R3
+DEx4 work 13 counter_alarm 0 22 M<eoJ?5jESI?o58ziJ4PK1
+l24
+L23
+V5OCH;D?^@m53`M[oLd_^S2
+!s100 n][KjD[<`eJoP5_=^a_W50
+R7
+32
+R18
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R12
+R13
+Ecounter_digital_clock
+R0
+R14
+R15
+R1
+R2
+R3
+R4
+Z32 8/home/greati/digital_watch_vhdl/counter_digital_clock.vhd
+Z33 F/home/greati/digital_watch_vhdl/counter_digital_clock.vhd
+l0
+L6
+Vf2c1Wi;FRFKJ7;??]1dBL1
+!s100 >P4ll`=@GKZ7Pk50@<Df]1
+R7
+32
+R18
+!i10b 1
+Z34 !s108 1463135463.217476
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/counter_digital_clock.vhd|
+Z36 !s107 /home/greati/digital_watch_vhdl/counter_digital_clock.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R1
+R2
+R3
+DEx4 work 21 counter_digital_clock 0 22 f2c1Wi;FRFKJ7;??]1dBL1
+l25
+L24
+VB[RN=YI`j2]TYR3l6AgXF2
+!s100 j;NF<1F2;TlAI4D6a4RTV3
+R7
+32
+R18
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R12
+R13
+Ecounter_mod11
+R0
+R14
+R15
+R2
+R1
+R4
+Z37 8/home/greati/digital_watch_vhdl/counter_mod11.vhd
+Z38 F/home/greati/digital_watch_vhdl/counter_mod11.vhd
+l0
+L6
+VFCkeK?1ZJ0n7d>0VLDE472
+!s100 ^oafniUBJnoiXm1g2lS?S1
+R7
+32
+R18
+!i10b 1
+Z39 !s108 1463135463.275426
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/counter_mod11.vhd|
+Z41 !s107 /home/greati/digital_watch_vhdl/counter_mod11.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R2
+R1
+DEx4 work 13 counter_mod11 0 22 FCkeK?1ZJ0n7d>0VLDE472
+l17
+L16
+V;`c]<`WAHSo9]UzL=`b8:1
+!s100 V836zC;@PoKK9MidlE^MX1
+R7
+32
+R18
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R12
+R13
+Ecounter_wbits
+R0
+R14
+R15
+R2
+R1
+R4
+Z42 8/home/greati/digital_watch_vhdl/counter_Wbits.vhd
+Z43 F/home/greati/digital_watch_vhdl/counter_Wbits.vhd
+l0
+L5
+V3[]d>Zm70W`V7YCgH;SlJ3
+!s100 `>`kkX;GczA`d9C`GVE7l0
+R7
+32
+R18
+!i10b 1
+Z44 !s108 1463135463.320853
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/counter_Wbits.vhd|
+Z46 !s107 /home/greati/digital_watch_vhdl/counter_Wbits.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R2
+R1
+DEx4 work 13 counter_wbits 0 22 3[]d>Zm70W`V7YCgH;SlJ3
+l19
+L18
+VP]DMahfQ4nFEcOBa2eQzP1
+!s100 ;761GJTU@Bg0:zSEQ48<A1
+R7
+32
+R18
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R12
+R13
+Edec7seg
+R0
+R4
+Z47 8/home/greati/digital_watch_vhdl/dec7seg.vhd
+Z48 F/home/greati/digital_watch_vhdl/dec7seg.vhd
+l0
+L1
+V3j[CXX:YQQbYZgii_NiBh1
+!s100 KGC57nU?_G3<ji==QIjgW0
+R7
+32
+R18
+!i10b 1
+Z49 !s108 1463135463.373686
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/dec7seg.vhd|
+Z51 !s107 /home/greati/digital_watch_vhdl/dec7seg.vhd|
+!i113 1
+R12
+R13
+Astruct
+DEx4 work 7 dec7seg 0 22 3j[CXX:YQQbYZgii_NiBh1
+l8
+L7
+V0]2CIj3RR1Db^Mnj3GL9J0
+!s100 1PF7mbj8jLT;d<K<l7<hi3
+R7
+32
+R18
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R12
+R13
+Emin_hmin
+R0
+R1
+R2
+R3
+R4
+Z52 8/home/greati/digital_watch_vhdl/min_Hmin.vhd
+Z53 F/home/greati/digital_watch_vhdl/min_Hmin.vhd
+l0
+L5
+V;SajRDQ_mWT@>2OhY2nAS2
+!s100 =X6O_SGnnF`LQgmU;j8H40
+R7
+32
+R18
+!i10b 1
+Z54 !s108 1463135463.417265
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/min_Hmin.vhd|
+Z56 !s107 /home/greati/digital_watch_vhdl/min_Hmin.vhd|
+!i113 1
+R12
+R13
+Astruct
+R1
+R2
+R3
+DEx4 work 8 min_hmin 0 22 ;SajRDQ_mWT@>2OhY2nAS2
+l16
+L12
+V2a=j=BRD_^g==Cc67b:jA0
+!s100 El^O67=X5A?FIhF`0MnAb3
+R7
+32
+R18
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R12
+R13
+Emux_2x1
+R0
+R14
+R15
+R1
+R2
+R3
+R4
+Z57 8/home/greati/digital_watch_vhdl/mux_2x1.vhd
+Z58 F/home/greati/digital_watch_vhdl/mux_2x1.vhd
+l0
+L6
+VB5:TU]iOQQ82PHD?1@4TE3
+!s100 fnIk3TbH0DAAcMV8<`1zl2
+R7
+32
+R18
+!i10b 1
+Z59 !s108 1463135463.475616
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/mux_2x1.vhd|
+Z61 !s107 /home/greati/digital_watch_vhdl/mux_2x1.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R1
+R2
+R3
+DEx4 work 7 mux_2x1 0 22 B5:TU]iOQQ82PHD?1@4TE3
+l14
+L13
+Va3O=KSFV=`<f6:=D@>bCF1
+!s100 aKLTZD0YCJlXW>7`l3IP01
+R7
+32
+R18
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R12
+R13
+Emux_2x1_wbits
+R0
+R14
+R15
+R1
+R2
+R3
+R4
+Z62 8/home/greati/digital_watch_vhdl/mux_2x1_Wbits.vhd
+Z63 F/home/greati/digital_watch_vhdl/mux_2x1_Wbits.vhd
+l0
+L6
+VQA87@aoZI=KoNIfA5IGHV0
+!s100 nLE2WR`WYd36K0NO=lYF=3
+R7
+32
+R18
+!i10b 1
+Z64 !s108 1463135463.529774
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/greati/digital_watch_vhdl/mux_2x1_Wbits.vhd|
+Z66 !s107 /home/greati/digital_watch_vhdl/mux_2x1_Wbits.vhd|
+!i113 1
+R12
+R13
+Abehav
+R14
+R15
+R1
+R2
+R3
+Z67 DEx4 work 13 mux_2x1_wbits 0 22 QA87@aoZI=KoNIfA5IGHV0
+l15
+L14
+Z68 VnS988i0Mc]4?6<OA5okB70
+Z69 !s100 keF=dENRiUkoHQ=3YKd=A3
+R7
+32
+R18
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R12
+R13

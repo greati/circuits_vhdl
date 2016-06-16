@@ -1,0 +1,31 @@
+LIBRARY IEEE;
+USE IEEE.std_logic_1164.ALL;
+USE IEEE.std_logic_unsigned.ALL;
+
+ENTITY parallel_register IS 
+GENERIC (W : NATURAL := 5);
+PORT( 	vis: IN std_logic;
+	d: IN std_logic_VECTOR(W-1 DOWNTO 0);
+	clk : IN std_logic;
+	clrn : IN std_logic;
+	load : IN std_logic;
+	q : BUFFER std_logic_VECTOR(W-1 DOWNTO 0));
+END parallel_register;
+
+ARCHITECTURE Arch1 of parallel_register IS
+BEGIN
+
+	PROCESS(clk,clrn)
+	BEGIN
+		IF (clrn='1') THEN
+			q <= (OTHERS => '0');
+		ELSIF (clk'EVENT AND clk='1') THEN
+			IF (load ='1') THEN
+				q(4) <= d(4) XOR vis;
+				q(3 DOWNTO 0) <= d(3 DOWNTO 0);
+			END IF;
+		END IF;
+	END PROCESS;
+
+END Arch1;
+

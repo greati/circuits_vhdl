@@ -1,0 +1,95 @@
+add wave -position insertpoint sim:/clock_final/*
+force -freeze sim:/clock_final/clkClock 1 0, 0 {400 ps} -r 800
+force -freeze sim:/clock_final/clkAdjust 1 0, 0 {50 ps} -r 100
+force -freeze sim:/clock_final/clkAlarmAlive 1 0, 0 {25 ps} -r 50
+force -freeze sim:/clock_final/clear 0 0
+run
+force -freeze sim:/clock_final/clear 1 0
+
+
+
+---Alarm Test
+
+add wave -position insertpoint sim:/clock_final/*
+force -freeze sim:/clock_final/clkClock 1 0, 0 {400 ps} -r 800
+force -freeze sim:/clock_final/clkAdjust 1 0, 0 {50 ps} -r 100
+force -freeze sim:/clock_final/clkAlarmAlive 1 0, 0 {25 ps} -r 50
+force -freeze sim:/clock_final/clear 0 0
+run
+force -freeze sim:/clock_final/clear 1 0
+force -freeze sim:/clock_final/adjClock 1 0
+force -freeze sim:/clock_final/downMin 1 0
+run
+force -freeze sim:/clock_final/downMin 0 0
+force -freeze sim:/clock_final/downH 1 0
+run
+force -freeze sim:/clock_final/downH 0 0
+force -freeze sim:/clock_final/adjClock 0 0
+run
+force -freeze sim:/clock_final/alarmOn 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+
+
+
+--------Sleep test
+
+add wave -position insertpoint sim:/clock_final/*
+force -freeze sim:/clock_final/clkClock 1 0, 0 {400 ps} -r 800
+force -freeze sim:/clock_final/clkAdjust 1 0, 0 {50 ps} -r 100
+force -freeze sim:/clock_final/clkAlarmAlive 1 0, 0 {25 ps} -r 50
+force -freeze sim:/clock_final/clear 0 0
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /clock_final/hmExt
+force -freeze sim:/clock_final/clear 1 0
+force -freeze sim:/clock_final/adjClock 1 0
+force -freeze sim:/clock_final/downMin 1 0
+run
+force -freeze sim:/clock_final/downMin 0 0
+force -freeze sim:/clock_final/downH 1 0
+run
+force -freeze sim:/clock_final/downH 0 0
+force -freeze sim:/clock_final/adjClock 0 0
+force -freeze sim:/clock_final/alarmOn 1 0
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/clock_final/soneca 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run 1000
+run 1000
+run 1000
+run 1000
+run 1000
+run 1000
+run 1000
+run 1000
+run 1000

@@ -1,0 +1,102 @@
+/home/greati/digital_watch_vhdl/dec7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/dec7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Compiling entity dec7seg
+-- Compiling architecture struct of dec7seg
+
+} {} {}} /home/greati/digital_watch_vhdl/comp_clockAlarm.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/comp_clockAlarm.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp_clockAlarm
+-- Compiling architecture behav of comp_clockAlarm
+
+} {} {}} /home/greati/digital_watch_vhdl/alg_extractor.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/alg_extractor.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alg_extractor
+-- Compiling architecture struct of alg_extractor
+
+} {} {}} /home/greati/digital_watch_vhdl/mux_2x1_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/mux_2x1_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_2x1_Wbits
+-- Compiling architecture behav of mux_2x1_Wbits
+
+} {} {}} /home/greati/digital_watch_vhdl/mux_2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/mux_2x1.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_2x1
+-- Compiling architecture behav of mux_2x1
+
+} {} {}} /home/greati/digital_watch_vhdl/counter_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/counter_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_Wbits
+-- Compiling architecture behav of counter_Wbits
+
+} {} {}} /home/greati/digital_watch_vhdl/counter_digital_clock.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/counter_digital_clock.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_digital_clock
+-- Compiling architecture behav of counter_digital_clock
+
+} {} {}} /home/greati/digital_watch_vhdl/counter_alarm.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/counter_alarm.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_alarm
+-- Compiling architecture behav of counter_alarm
+
+} {} {}} /home/greati/digital_watch_vhdl/counter_mod11.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/counter_mod11.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_mod11
+-- Compiling architecture behav of counter_mod11
+
+} {} {}} /home/greati/digital_watch_vhdl/clock_final.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/greati/digital_watch_vhdl/clock_final.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity clock_final
+-- Compiling architecture comps of clock_final
+
+} {} {}}

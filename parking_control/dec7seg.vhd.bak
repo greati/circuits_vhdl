@@ -1,0 +1,39 @@
+ENTITY dec7seg IS
+PORT(n : IN BIT_VECTOR(3 DOWNTO 0);
+     s : OUT BIT_VECTOR(6 DOWNTO 0));
+BEGIN
+END dec7seg;
+
+ARCHITECTURE struct OF dec7seg IS
+BEGIN
+	-- Segment 1
+	s(0) <= n(0) OR 
+		( NOT(n(1)) AND NOT(n(3)) ) OR 
+		( NOT(n(1)) AND n(2) ) OR 
+		( n(1) AND n(3) );
+	-- Segment 2
+	s(1) <= ( NOT(n(1)) ) OR
+		( NOT(n(2)) AND NOT(n(3)) ) OR
+		( n(2) AND n(3) );
+	-- Segment 3
+	s(2) <= NOT(n(2)) OR n(3) OR n(1);
+	-- Segment 4
+	s(3) <= n(0) OR 
+		( NOT(n(1)) AND NOT(n(3)) ) OR
+		( NOT(n(1)) AND n(2) ) OR
+		( n(2) AND NOT(n(3)) ) OR
+		( n(1) AND NOT(n(2)) AND n(3));
+	-- Segment 5
+	s(4) <= ( NOT(n(1)) AND NOT(n(3)) ) OR
+		( n(2) AND NOT(n(3)) );
+	-- Segment 6
+	s(5) <= ( n(0) ) OR
+		( NOT(n(2)) AND NOT(n(3)) ) OR
+		( n(1) AND NOT(n(2)) ) OR
+		( n(1) AND NOT(n(3)) );
+	-- Segment 7
+	s(6) <= ( n(0) ) OR
+		( NOT(n(1)) AND n(2) ) OR
+		( n(2) AND NOT(n(3)) ) OR
+		( n(1) AND NOT(n(2)) ); 
+END struct;

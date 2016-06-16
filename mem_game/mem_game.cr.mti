@@ -1,0 +1,81 @@
+C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/dec7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/dec7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity dec7seg
+-- Compiling architecture struct of dec7seg
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/decodificador4x16.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/decodificador4x16.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity decodificador4x16
+-- Compiling architecture behavior of decodificador4x16
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mem_game.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mem_game.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mem_game
+-- Compiling architecture comps of mem_game
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mux_2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mux_2x1.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_2x1
+-- Compiling architecture behav of mux_2x1
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mux_2x1_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mux_2x1_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_2x1_Wbits
+-- Compiling architecture behav of mux_2x1_Wbits
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mux_16x1_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/mux_16x1_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_16x1_Wbits
+-- Compiling architecture behav of mux_16x1_Wbits
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/state_machine.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/state_machine.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity state_machine
+-- Compiling architecture a of state_machine
+
+} {} {}} C:/Users/Clenilton/Desktop/VHDL/mem_game_vhdl/parallel_register.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Clenilton\Desktop\VHDL\mem_game_vhdl\parallel_register.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity parallel_register
+-- Compiling architecture Arch1 of parallel_register
+
+} {} {}}

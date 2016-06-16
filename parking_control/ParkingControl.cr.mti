@@ -1,0 +1,46 @@
+E:/Exercises/VHDL/ParkingControl/alg_extractor.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/alg_extractor.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alg_extractor
+-- Compiling architecture struct of alg_extractor
+
+} {} {}} E:/Exercises/VHDL/ParkingControl/parking_control.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/parking_control.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity parking_control
+-- Compiling architecture struct of parking_control
+
+} {} {}} E:/Exercises/VHDL/ParkingControl/adder_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/adder_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity adder_Wbits
+-- Compiling architecture arch1 of adder_Wbits
+
+} {} {}} E:/Exercises/VHDL/ParkingControl/addersubtc2_full.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/addersubtc2_full.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity addersubtc2_full
+-- Compiling architecture structural of addersubtc2_full
+
+} {} {}} E:/Exercises/VHDL/ParkingControl/dec7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/dec7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity dec7seg
+-- Compiling architecture struct of dec7seg
+
+} {} {}} E:/Exercises/VHDL/ParkingControl/full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/full_adder.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity full_adder
+-- Compiling architecture structural of full_adder
+
+} {} {}} E:/Exercises/VHDL/ParkingControl/half_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none E:/Exercises/VHDL/ParkingControl/half_adder.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity half_adder
+-- Compiling architecture structural of half_adder
+
+} {} {}}

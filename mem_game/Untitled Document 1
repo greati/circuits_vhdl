@@ -1,0 +1,66 @@
+add wave -position insertpoint sim:/mem_game/*
+force -freeze sim:/mem_game/clock 1 0, 0 {50 ps} -r 100
+
+force -freeze sim:/mem_game/choice1 00000 0
+force -freeze sim:/mem_game/choice2 00000 0
+force -freeze sim:/mem_game/reset 0 0
+force -freeze sim:/mem_game/comp_p 1 0
+
+force -freeze sim:/mem_game/reset 1 0
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /mem_game/comp
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /mem_game/comp
+run
+run
+force -freeze sim:/mem_game/reset 0 0
+force -freeze sim:/mem_game/r1 00000 0
+force -freeze sim:/mem_game/r2 00001 0
+force -freeze sim:/mem_game/r3 00010 0
+force -freeze sim:/mem_game/r4 00011 0
+force -freeze sim:/mem_game/r5 00100 0
+force -freeze sim:/mem_game/r6 00101 0
+force -freeze sim:/mem_game/r7 00110 0
+force -freeze sim:/mem_game/r8 00111 0
+force -freeze sim:/mem_game/r9 00000 0
+force -freeze sim:/mem_game/r10 00001 0
+force -freeze sim:/mem_game/r11 00010 0
+force -freeze sim:/mem_game/r12 00011 0
+force -freeze sim:/mem_game/r13 00100 0
+force -freeze sim:/mem_game/r14 00101 0
+force -freeze sim:/mem_game/r15 00110 0
+force -freeze sim:/mem_game/r16 00111 0
+force -freeze sim:/mem_game/load 1111111111111111 0
+run
+run
+noforce sim:/mem_game/r1
+noforce sim:/mem_game/r2
+noforce sim:/mem_game/r3
+noforce sim:/mem_game/r4
+noforce sim:/mem_game/r5
+noforce sim:/mem_game/r6
+noforce sim:/mem_game/r7
+noforce sim:/mem_game/r8
+noforce sim:/mem_game/r9
+noforce sim:/mem_game/r10
+noforce sim:/mem_game/r11
+noforce sim:/mem_game/r12
+noforce sim:/mem_game/r13
+noforce sim:/mem_game/r14
+noforce sim:/mem_game/r15
+noforce sim:/mem_game/r16
+run
+run
+noforce sim:/mem_game/load
+run
+
+
+andPort
+vis
+comp_out
+comp_p
+clock
+reset
+confirm_choice1
+confirm_choice2

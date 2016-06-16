@@ -1,0 +1,89 @@
+C:/Users/vitorgreati/digital_watch_vhdl/counter_digital_clock.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/counter_digital_clock.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_digital_clock
+-- Compiling architecture behav of counter_digital_clock
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/mux_2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/mux_2x1.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_2x1
+-- Compiling architecture behav of mux_2x1
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/mux_2x1_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/mux_2x1_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mux_2x1_Wbits
+-- Compiling architecture behav of mux_2x1_Wbits
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/counter_Wbits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/counter_Wbits.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_Wbits
+-- Compiling architecture behav of counter_Wbits
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/counter_mod11.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/counter_mod11.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter_mod11
+-- Compiling architecture behav of counter_mod11
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/dec7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/dec7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Compiling entity dec7seg
+-- Compiling architecture struct of dec7seg
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/min_Hmin.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/min_Hmin.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity min_Hmin
+-- Compiling architecture struct of min_Hmin
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/comp_clockAlarm.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/comp_clockAlarm.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp_clockAlarm
+-- Compiling architecture behav of comp_clockAlarm
+
+} {} {}} C:/Users/vitorgreati/digital_watch_vhdl/alg_extractor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vitorgreati/digital_watch_vhdl/alg_extractor.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alg_extractor
+-- Compiling architecture struct of alg_extractor
+
+} {} {}}

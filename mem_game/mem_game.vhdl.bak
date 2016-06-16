@@ -1,0 +1,13 @@
+LIBRARY IEEE;
+USE IEEE.NUMERIC_STD.ALL;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+ENTITY mem_game IS
+PORT(
+	clkClock, clkAdjust, clkAlarmAlive : IN BIT;
+	adjClock, adjAlarm, offAlarm, soneca, clear, alarmOn : IN BIT;
+	upH, downH, upMin, downMin : IN BIT;
+	dezH7, uniH7, dezMin7, uniMin7 : OUT BIT_VECTOR(6 DOWNTO 0);
+	alarm: OUT BIT
+);
